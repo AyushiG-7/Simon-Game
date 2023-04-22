@@ -57,3 +57,8 @@ footer{
   box-shadow: 0 0 20px white;
   background-color: grey;
 }
+
+footer a{
+  color: #EEEEEE;
+  text-decoration: none;
+}
