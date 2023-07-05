@@ -2,4 +2,4 @@
 
 **Responsive Website**
 
-**Tech Stack:** HTML5, CSS, Bootstrap, Javascript, JQuery.
+**Tech Stack:** HTML5, CSS, Javascript, JQuery.
