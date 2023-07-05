@@ -1,3 +1,5 @@
 # Simon-Game
-**Tech Stack:** HTML5, CSS, Javascript, JQuery.
+
 **Responsive Website**
+
+**Tech Stack:** HTML5, CSS, Bootstrap, Javascript, JQuery.
